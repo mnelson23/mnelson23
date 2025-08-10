@@ -1,30 +1,49 @@
-Hi 👋 My name is Milton Nelson Jr
-=================================
+# Hi there 👋 I'm Milton Nelson  
 
-Software Engineer
------------------
+🎓 **Computer Science Graduate** | 💻 **Full-Stack Web Developer** | 🚀 **Lifelong Learner**  
 
-* 🌍  I'm based in Orlando, FL
-* ✉️  You can contact me at [miltonnelson23@gmail.com](mailto:miltonnelson23@gmail.com)
-* 🧠  I'm learning React & Next
-* 🤝  I'm open to collaborating on Fullstack Projects
+---
 
-### Skills
+## 🚀 About Me
+I’m a passionate software engineer who bridges **computer science fundamentals** with **real-world development skills**.  
+After earning my **B.A. in Computer Science**, I completed an intensive **Web Development Bootcamp** where I honed my ability to build modern, responsive, and scalable applications.
 
+💡 My mission: Create software that’s **functional, beautiful, and impactful**.  
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+---
 
+## 🛠 Tech Stack
 
-### Socials
+**Languages:**  
+`JavaScript` | `Python` | `Java` | `HTML5` | `CSS3`
 
-<p align="left"> <a href="https://discord.com/users/mnelson23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/mnelson23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mnelson23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/mnelson23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+**Frameworks & Libraries:**  
+`React` | `Node.js` | `Express` | `Tailwind CSS` | `Bootstrap`
 
-### Badges
+**Databases & Tools:**  
+`MongoDB` | `MySQL` | `PostgreSQL` | `Git` | `GitHub` | `REST APIs`
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/mnelson23"><img src="https://github-readme-stats.vercel.app/api?username=mnelson23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mnelson23's GitHub stats" /></a>
+## 🌱 Currently Exploring
+- Building dynamic UIs with **React** + **Tailwind**
+- Deepening my **cloud knowledge** with AWS & Azure
+- Expanding my **problem-solving skills** with LeetCode & CodeWars
 
-<a href="https://github.com/mnelson23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnelson23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 📌 Featured Projects
+- **[Jeopardy! Web Game](#)** 🎯 — A trivia game using HTML, CSS, and JavaScript with API integration.  
+- **[Portfolio Website](#)** 🌐 — Personal portfolio built with React + Tailwind.  
+- **[Full-Stack Task Manager](#)** ✅ — MERN app with user authentication and CRUD functionality.
+
+---
+
+## 📫 Let’s Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+
+---
+
+⭐️ _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
